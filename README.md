@@ -1,4 +1,4 @@
-## Homework #2 - Group 3
+## Homework #2 - Group 3 
 # CTAGDRC (CTAG Dynamic Range Compressor)
 
 
